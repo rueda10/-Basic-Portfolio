@@ -120,6 +120,10 @@ li a:hover {
 
 /* CONTACT FORM */
 
+form {
+  margin-top: 15px;
+}
+
 input[type=text], select, textarea {
   width: 100%;
   padding: 8px;
@@ -164,7 +168,9 @@ input[type=submit] {
 
 table {
   width: 100%;
-  padding-left: 10px;
+  margin-top: 15px;
+  margin-left: 15px;
+  /*padding-left: 10px;*/
 }
 
 td {
