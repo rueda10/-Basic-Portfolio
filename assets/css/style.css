@@ -85,7 +85,6 @@ li a:hover {
 .left {
   width: 650px;
   float: left;
-  /*margin-bottom: 70px;*/
 }
 
 .left h1 {
@@ -170,7 +169,6 @@ table {
   width: 100%;
   margin-top: 15px;
   margin-left: 15px;
-  /*padding-left: 10px;*/
 }
 
 td {
@@ -210,14 +208,12 @@ td {
 }
 
 .icon {
-  /*height: 40px;*/
   width: 40px;
 }
 
 /* FOOTER */
 
 footer {
-  /*clear: both;*/
   background: #666666;
   text-align: center;
   color: white;
